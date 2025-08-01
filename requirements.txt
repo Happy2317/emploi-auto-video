@@ -1,5 +1,0 @@
-requests
-python-dotenv
-schedule
-gspread
-oauth2client
