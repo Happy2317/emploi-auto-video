@@ -1,0 +1,16 @@
+{
+  "jobs": [
+    {
+      "platform": "TikTok",
+      "time": ["05:00", "12:00", "19:00"]
+    },
+    {
+      "platform": "Instagram",
+      "time": ["05:00", "12:00", "19:00"]
+    },
+    {
+      "platform": "YouTube Shorts",
+      "time": ["05:00", "12:00", "19:00"]
+    }
+  ]
+}
